@@ -1,4 +1,4 @@
-### Hi there 👋
+![image](https://user-images.githubusercontent.com/48147673/166972427-9f76690a-5429-4448-9b6c-4e12dd655ca6.png)
 
 <!--
 **TipicultBiomassa/TipicultBiomassa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->![Uploading image.png…]()
+
