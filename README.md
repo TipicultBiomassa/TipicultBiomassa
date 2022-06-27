@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TipicultBiomassa)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TipicultBiomassa)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://user-images.githubusercontent.com/48147673/168488879-68ad7444-e40e-404d-867a-ae2c090201cf.png" alt="drawing" width="200"/>
 <a href="https://tipicultbiomassa.github.io/portfolio-site/">Check out my new portfolio site</a>
